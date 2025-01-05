@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/divyarajsinh000/Vehicle_Project/static/css/main.3f6068c5.css",
-    "main.js": "/divyarajsinh000/Vehicle_Project/static/js/main.e737e850.js",
-    "static/js/488.de943ce9.chunk.js": "/divyarajsinh000/Vehicle_Project/static/js/488.de943ce9.chunk.js",
-    "static/media/logo.jpg": "/divyarajsinh000/Vehicle_Project/static/media/logo.7dfb60138b071d19a511.jpg",
-    "index.html": "/divyarajsinh000/Vehicle_Project/index.html",
-    "main.3f6068c5.css.map": "/divyarajsinh000/Vehicle_Project/static/css/main.3f6068c5.css.map",
-    "main.e737e850.js.map": "/divyarajsinh000/Vehicle_Project/static/js/main.e737e850.js.map",
-    "488.de943ce9.chunk.js.map": "/divyarajsinh000/Vehicle_Project/static/js/488.de943ce9.chunk.js.map"
+    "main.css": "/Vehicle_Project/static/css/main.3f6068c5.css",
+    "main.js": "/Vehicle_Project/static/js/main.085c8071.js",
+    "static/js/488.de943ce9.chunk.js": "/Vehicle_Project/static/js/488.de943ce9.chunk.js",
+    "static/media/logo.jpg": "/Vehicle_Project/static/media/logo.7dfb60138b071d19a511.jpg",
+    "index.html": "/Vehicle_Project/index.html",
+    "main.3f6068c5.css.map": "/Vehicle_Project/static/css/main.3f6068c5.css.map",
+    "main.085c8071.js.map": "/Vehicle_Project/static/js/main.085c8071.js.map",
+    "488.de943ce9.chunk.js.map": "/Vehicle_Project/static/js/488.de943ce9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f6068c5.css",
-    "static/js/main.e737e850.js"
+    "static/js/main.085c8071.js"
   ]
 }
